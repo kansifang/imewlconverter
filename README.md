@@ -4,6 +4,10 @@ imewlconverter
 an ime word library converter
 support more than 20 ime tools:
 
+Google Code托管的代码入口是：https://code.google.com/p/imewlconverter/
+
+老版的Google Code托管的代码入口是：http://code.google.com/p/imewlconverter/source/browse/
+
 搜狗拼音（文本词库、Bin格式备份词库和scel格式细胞词库）
 
 QQ拼音（文本词库和qpyd格式分类词库）
